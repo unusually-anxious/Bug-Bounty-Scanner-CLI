@@ -43,7 +43,7 @@ Accept the permission popup when it appears.
 
 ### 4. Clone the repository
 ```bash
-git clone https://github.com/YOURUSERNAME/Bug-Bounty-Scanner-CLI.git
+git clone https://github.com/unusually-anxious/Bug-Bounty-Scanner-CLI/tree/main
 cd Bug-Bounty-Scanner-CLI
 ```
 
